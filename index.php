@@ -6,5 +6,5 @@
 	 * Time: 4:42 PM
 	 */
 
-	echo "The is php file";
+	echo "Hello world";
 ?>
