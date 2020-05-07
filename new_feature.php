@@ -7,4 +7,5 @@
 	 */
 
 	echo "Cool Feature Done";
+	echo "Cool new feature updated";
 ?>
