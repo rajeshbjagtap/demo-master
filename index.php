@@ -6,5 +6,5 @@
 	 * Time: 4:42 PM
 	 */
 
-	echo "Hello world Cherry  fix test.";
+	echo "Hello world Stash server.";
 ?>
