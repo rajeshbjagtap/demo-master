@@ -8,4 +8,5 @@
 
 	echo "Hello world stash.";
 	echo "Hello world Stash server 2";
+	echo "Hello world Local 1";
 ?>
