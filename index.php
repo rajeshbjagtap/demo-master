@@ -7,4 +7,5 @@
 	 */
 
 	echo "Hello world stash.";
+	echo "Hello world Stash server.";
 ?>
